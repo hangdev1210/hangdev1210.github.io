@@ -1,0 +1,1 @@
+export const isEven = (number:number) => number == 0 || !(number%2);
