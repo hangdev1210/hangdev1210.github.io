@@ -10,7 +10,7 @@ import contactData, { ContactType } from "@/data/contacts";
 
 export default function Contact(){
   return (
-    <div id="contact" className="app-container flex flex-col py-12 min-h-screen bg-(--intro-desc) xl:rounded-t-xl">
+    <div id="contact" className="app-container flex flex-col py-12 min-h-[40rem] bg-(--intro-desc) xl:rounded-t-xl">
       <div className='flex-1'>
         <h2 className='text-center font-semibold text-2xl xl:text-3xl text-gray-400'>Contacts</h2>
         <div className="grid grid-cols-1 gap-4 w-4/5 mx-auto mt-20 md:grid-cols-2">
