@@ -11,7 +11,7 @@ const data:ContactData[] = [{
 },
 {
   type:'instagram',
-  link:'https://www.instagram.com/hang.dev1210'
+  link:'https://www.instagram.com/devbyhang'
 }];
 
 export default data;

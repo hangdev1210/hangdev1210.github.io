@@ -1,1 +1,1 @@
-export const WEBSITE_NAME = "Hang.Dev";
+export const WEBSITE_NAME = "Dev by Hang";
